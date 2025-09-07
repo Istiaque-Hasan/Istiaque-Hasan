@@ -41,14 +41,18 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 
 ## 📈 GitHub Stats
 
-
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Istiaque-Hasan&theme=dracula&hide_border=true" />
+<br clear="left" />
+<br />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istiaque-Hasan&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
+<br clear="left" />
 
 ---
 
 ## 💬 Let's Connect
 
 Always open to new opportunities, collaborations, or just a good dev talk. Feel free to reach out!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdistiaque-hasan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:)
 
 
