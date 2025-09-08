@@ -33,7 +33,7 @@ When I’m not coding, I’m exploring new tech trends, reading quirky blog post
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
-![Mongo](https://img.shields.io/badge/mongo-005C84?style=flat-square&logo=mongo&logoColor=white)
+![Mongo](https://img.shields.io/badge/Mongo-005C84?style=flat-square&logo=mongo&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 
