@@ -8,11 +8,9 @@
 Hey there 👋 I’m Istiaque, a curious problem solver who loves building things for the web. For me, code is more than just syntax, it’s a way to untangle complex challenges and turn ideas into products people actually enjoy using.
 
 🧩 Full-stack developer who treats debugging like solving a puzzle <br />
-💡 Always learning, currently diving deep into System Analysis
-
-🌍 Thrives in team collaboration, across time zones, without ever missing a beat
-
-☕ Powered by tea, commits and the occasional recharge nap
+💡 Always learning, currently diving deep into System Analysis <br />
+🌍 Thrives in team collaboration, across time zones, without ever missing a beat <br />
+☕ Powered by tea, commits and the occasional recharge nap 
 
 When I’m not coding, I’m exploring new tech trends, reading quirky blog posts or reorganizing my Notion workspace (again 😅).
 
