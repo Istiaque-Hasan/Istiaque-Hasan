@@ -7,8 +7,7 @@
 ## 🧠 About Me
 Hey there 👋 I’m Istiaque, a curious problem solver who loves building things for the web. For me, code is more than just syntax, it’s a way to untangle complex challenges and turn ideas into products people actually enjoy using.
 
-🧩 Full-stack developer who treats debugging like solving a puzzle
-
+🧩 Full-stack developer who treats debugging like solving a puzzle <br />
 💡 Always learning, currently diving deep into System Analysis
 
 🌍 Thrives in team collaboration, across time zones, without ever missing a beat
