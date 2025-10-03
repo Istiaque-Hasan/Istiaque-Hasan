@@ -59,7 +59,7 @@ What I bring to the table:
 - **Software Architecture:** Microservices, REST APIs, GraphQL, Kafka, RabbitMQ  
 
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Istiaque-Hasan&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
@@ -68,11 +68,11 @@ What I bring to the table:
 ---
 
 #### 🏅 Certifications
-- [Professional Scrum Master II(PSMII)](https://www.credly.com/badges/e3efd250-c0e7-4531-b7f6-f2c92b651253)  
-- [Professional Scrum Product Owner II(PSPOII)](https://www.credly.com/badges/80b918ad-e04f-45b2-92dd-009de137fc22/public_ur)  
+- [Professional Scrum Master II (PSMII)](https://www.credly.com/badges/e3efd250-c0e7-4531-b7f6-f2c92b651253)  
+- [Professional Scrum Product Owner II (PSPOII)](https://www.credly.com/badges/80b918ad-e04f-45b2-92dd-009de137fc22/public_ur)  
 
 ---
-## 💬 Let's Connect
+### 💬 Let's Connect
 
 Always open to new opportunities, collaborations, or just a good dev talk. Feel free to reach out! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdistiaque-hasan)
