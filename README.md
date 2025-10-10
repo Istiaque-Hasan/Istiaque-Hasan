@@ -51,7 +51,7 @@ What I bring to the table:
 
 ### 🔧 Technical Skills
 
-- **Programming & Development:** JavaScript (React, Next.js, Node.js, jQuery), TypeScript, PHP (Laravel), Python, Java, HTML5, CSS3 (Tailwind CSS, Bootstrap)  
+- **Programming & Development:** JavaScript (React, Next.js, Node.js, jQuery), TypeScript, PHP (Laravel), Python, HTML5, CSS3 (Tailwind CSS, Bootstrap)  
 - **Data Engineering & Analytics:** Python (Pandas, NumPy), SQL, NoSQL, Apache Airflow, Power BI, PostgreSQL, MySQL
 - **DevOps & Cloud:** AWS Cloud Services, Docker, CI/CD (Jenkins, GitHub Actions), Monitoring & Logging (Prometheus, Grafana) 
 - **Security & Testing:** OAuth2, JWT, MFA, OWASP Security Best Practices, Unit Testing (PHPUnit), Selenium  
