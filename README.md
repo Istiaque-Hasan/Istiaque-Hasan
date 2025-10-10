@@ -51,12 +51,12 @@ What I bring to the table:
 
 ### 🔧 Technical Skills
 
-- **Frontend:** React.js, Next.js, Angular.js, Gulp.js, Redux, TypeScript, jQuery, Bootstrap, Tailwind CSS, Material UI, SASS  
-- **Backend:** Node.js, Express.js, NestJS, PHP, Laravel  
-- **Databases:** MySQL (Sequelize, TypeORM), MongoDB, MS SQL, Oracle, Redis, SQLite  
-- **DevOps & Cloud:** AWS (EC2, S3, Route53), Docker, CI/CD, Nginx, Apache, Monit, Load-Balancing, PM2, Supervisor  
-- **Tools:** GitHub, GitLab, Bitbucket, JIRA, Trello, Asana, ClickUp, Microsoft Planner  
-- **Software Architecture:** Microservices, REST APIs, GraphQL, Kafka, RabbitMQ  
+- **Programming & Development:** JavaScript (React, Next.js, Node.js, jQuery), TypeScript, PHP (Laravel), Python, Java, HTML5, CSS3 (Tailwind CSS, Bootstrap)  
+- **Data Engineering & Analytics:** Python (Pandas, NumPy), SQL, NoSQL, Apache Airflow, Power BI, PostgreSQL, MySQL, Oracle, AWS RDS
+- **DevOps & Cloud:** AWS Cloud Services, Docker, CI/CD (Jenkins, GitHub Actions), Monitoring & Logging (Prometheus, Grafana) 
+- **Security & Testing:** OAuth2, JWT, MFA, OWASP Security Best Practices, Unit Testing (PHPUnit), Selenium  
+- **Tools & Collaboration:** Git, GitHub, JIRA, ClickUp, Trello, Slack, Postman, Swagger, Figma, Microsoft Office 365, Kafka, RabbitMQ 
+- **Software Architecture:** Microservices, REST APIs  
 
 
 ### 📈 GitHub Stats
