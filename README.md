@@ -62,11 +62,6 @@ What I bring to the table:
 - **Tools & Collaboration:** Git, GitHub, JIRA, ClickUp, Trello, Slack, Postman, Swagger, Figma, Microsoft Office 365, Kafka, RabbitMQ 
 - **Software Architecture:** Microservices, REST APIs  
 
-
-### 📈 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Istiaque-Hasan&theme=dracula&hide_border=true)
-
 ---
 
 #### 🏅 Certifications
